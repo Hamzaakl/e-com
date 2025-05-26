@@ -1,0 +1,7 @@
+# Node.js bağımlılık klasörü
+node_modules/
+
+# Ortam değişkenleri (gizli anahtarlar)
+.env
+
+package-lock.json
